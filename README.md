@@ -1,5 +1,4 @@
 # BANK-MANAGMENT-SYSTEM
-DAY 1
 Inside the window, you see the following components:
 
 A large title saying "Welcome to ATM."
